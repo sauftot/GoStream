@@ -1,2 +1,2 @@
 # FunnehStream
- Twitch RTMP Client
+ MP4-to-Twitch-Streamer using RTMP
