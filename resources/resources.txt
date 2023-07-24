@@ -1,0 +1,4 @@
+https://dev.twitch.tv/docs/api/
+https://dev.twitch.tv/docs/api/get-started/
+https://dev.twitch.tv/docs/video-broadcast/
+https://help.twitch.tv/s/article/broadcasting-guidelines?language=en_US
